@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-shop/static/css/main.e6c13ad2.css",
+    "main.js": "/my-shop/static/js/main.43b2a4de.js",
+    "static/js/453.977cf479.chunk.js": "/my-shop/static/js/453.977cf479.chunk.js",
+    "static/media/shy.jpg": "/my-shop/static/media/shy.d9706d471e11621d4557.jpg",
+    "static/media/sus.jpg": "/my-shop/static/media/sus.255d679a9996a159740c.jpg",
+    "static/media/vekkam.jpg": "/my-shop/static/media/vekkam.a3d79cfc714a7138b4e1.jpg",
+    "static/media/vaibav.jpg": "/my-shop/static/media/vaibav.41524023f4ebce3d1531.jpg",
+    "static/media/bodybuilder.jpg": "/my-shop/static/media/bodybuilder.b8565dd75e2f90837835.jpg",
+    "static/media/likesit.jpg": "/my-shop/static/media/likesit.2cb41007c7363ccd9b68.jpg",
+    "static/media/stare.jpg": "/my-shop/static/media/stare.f1873230966c2c0c51dc.jpg",
+    "index.html": "/my-shop/index.html",
+    "main.e6c13ad2.css.map": "/my-shop/static/css/main.e6c13ad2.css.map",
+    "main.43b2a4de.js.map": "/my-shop/static/js/main.43b2a4de.js.map",
+    "453.977cf479.chunk.js.map": "/my-shop/static/js/453.977cf479.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.43b2a4de.js"
+  ]
+}
